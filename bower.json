@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-yo",
+  "description": "The most comprehensive collection of stopwords for the yoruba language.",
+  "keywords": [
+    "yoruba",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-yo",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-yo.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
